@@ -2,7 +2,7 @@
 
 For a live demo, you can click on the following link : [https://modjo.github.io/price-chart/](https://modjo.github.io/price-chart/)
 
-Below you will find some information on how to launch the project on your local machine.
+Below you will find information on how to launch the project on your local machine:
 
 - `git clone https://github.com/Modjo/price-chart.git`
 - `cd price-chart`
