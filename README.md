@@ -6,6 +6,7 @@ Below you will find information on how to launch the project on your local machi
 
 - `git clone https://github.com/Modjo/price-chart.git`
 - `cd price-chart`
+- `npm install`
 - `yarn start` or `npm run start`
 
 And that's it ! 
