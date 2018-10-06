@@ -1,0 +1,11 @@
+{
+  "main.js": "/price-chart/static/js/main.5ab35f1b.chunk.js",
+  "main.js.map": "/price-chart/static/js/main.5ab35f1b.chunk.js.map",
+  "static/js/1.573d5d00.chunk.js": "/price-chart/static/js/1.573d5d00.chunk.js",
+  "static/js/1.573d5d00.chunk.js.map": "/price-chart/static/js/1.573d5d00.chunk.js.map",
+  "runtime~main.js": "/price-chart/static/js/runtime~main.6d51f121.js",
+  "runtime~main.js.map": "/price-chart/static/js/runtime~main.6d51f121.js.map",
+  "index.html": "/price-chart/index.html",
+  "precache-manifest.66fc429286c63bc95ddd1883b52a3513.js": "/price-chart/precache-manifest.66fc429286c63bc95ddd1883b52a3513.js",
+  "service-worker.js": "/price-chart/service-worker.js"
+}
